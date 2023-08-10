@@ -1,1 +1,1 @@
-# Multiscale_model
+# Multiscale crowd counting model
